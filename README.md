@@ -6,6 +6,7 @@ Developed in TypeScript
 
 frontend 
   - framework : VueJS 3
+
 backend 
   - runtime : NodeJS
   - framework : express
